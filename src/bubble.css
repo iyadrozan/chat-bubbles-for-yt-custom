@@ -9,7 +9,7 @@
 
 .bubble {
   margin-right: 25%;
-  background-color: #eee;
+  background-color: #152238;
   position: relative;
 }
 
@@ -22,7 +22,7 @@
   left: -12px;
   height: 26px;
   width: 30px;
-  background: #eee;
+  background: #152238;
   border-bottom-right-radius: 20px;
 }
 
